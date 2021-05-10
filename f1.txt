@@ -1,1 +1,5 @@
 지역저장소
+red
+blue 
+yellow
+
