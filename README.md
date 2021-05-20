@@ -1,3 +1,4 @@
+
 # test1
 깃허브사용을 연습하고 있습니다.
 2021년 1학기 경일대학교 게임전공학생 입니다
@@ -18,5 +19,6 @@
  
  [kiu.ac.kr](http://www.kiu.ac.kr,"경일대학교 홈페이지")
  
+ ![KakaoTalk_20210520_235535888](https://user-images.githubusercontent.com/83428358/119002018-76eff580-b9c7-11eb-8d88-4f3d6274a99d.jpg)
  
  
